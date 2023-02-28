@@ -1,4 +1,4 @@
-# OFFICIAL Chain .ZIP Snapshot
+# OFFICIAL Chain Archive .ZIP Snapshot
 
 Here is an Official .Zip folder of our chain snapshot, to speed up any inital sync.. 
 
