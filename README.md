@@ -10,6 +10,7 @@ The zip consists of two folders. These are to be extracted and replaced with the
 
 **FOLDERS CONTAINED IN ZIP ARCHIVE:**
 
-✪
-✪
+✪ XXXXXX
+
+✪ XXXXXX
 
